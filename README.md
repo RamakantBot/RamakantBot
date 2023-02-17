@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programing
 - 🌱 I’m currently learning A.I. & M.L.
 - 💞️ currently I’m not looking to collaborate on Anything
-- 📫 How to reach me ... Ramakant@duck.com
+- 📫 How to reach me ... RamakantBot@duck.com
 
 <!---
 RamakantBot/RamakantBot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
