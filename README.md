@@ -19,7 +19,7 @@
 <a href="https://dev.to/ramakantbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ramakantbot" height="30" width="40" /></a>
 <a href="https://twitter.com/ramakantbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramakantbot" height="30" width="40" /></a>
 <a href="https://instagram.com/ramakantbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramakantbot" height="30" width="40" /></a>
-<a href="https://discord.gg/https://dsc.gg/botopia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/botopia" height="30" width="40" /></a>
+<a href="https://dsc.gg/botopia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/botopia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
